@@ -1,0 +1,1 @@
+// any messaging queue needs to implement
